@@ -6,3 +6,5 @@ Java application for managing and processing tasks using LinkedList, Queue, and 
 - Process tasks in a scheduling queue
 - Undo operations using a stack
 
+## Running the Program
+Run Main.java to start the application
